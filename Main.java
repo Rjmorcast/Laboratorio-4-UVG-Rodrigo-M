@@ -12,7 +12,7 @@ public class Main
 		try { 
 		br = new BufferedReader(new InputStreamReader(System.in));
 				
-				Alarma miReloj = new Alarma();
+				Alarma miReloj = new Alarma(); 
 				System.out.println(miReloj); 
 				miReloj.m1(); 
 				miReloj.m2();
